@@ -1,4 +1,4 @@
-const CACHE_NAME = 'timing-sheet-pro-v1';
+const CACHE_NAME = 'timing-sheet-pro-v2';
 const FILES_TO_CACHE = [
   './',
   './index.html',
